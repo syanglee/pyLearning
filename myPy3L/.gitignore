@@ -1,0 +1,4 @@
+# 忽略下载和缓存件夹下的所有文件
+download/
+doc/
+__pycache__/
